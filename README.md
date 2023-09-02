@@ -1,2 +1,2 @@
-# lab1POOI123456
+# lab1POOI2310976
 PC1 programacion
